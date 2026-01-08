@@ -14,6 +14,8 @@
 
 ---
 
+status: [active](https://github.com/synt-xerror/synt-xerror)
+
 ## What is BackupCraft?
 
 **BackupCraft** is a simple and effective terminal tool for backing up your Minecraft worlds. With it, you can protect your creations from accidental loss (or lava deaths) with just a few keystrokes!
